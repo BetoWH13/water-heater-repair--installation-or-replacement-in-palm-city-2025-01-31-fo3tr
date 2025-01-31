@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://betowh13.github.io/water-heater-repair--installation-or-replacement-in-palm-city-2025-01-31-fo3tr/sitemap.xml
